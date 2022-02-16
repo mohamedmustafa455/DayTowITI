@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DayTowITI</string>
+    <string name="tv_message">Mesage</string>
+    <string name="tv_phone">Phone</string>
+    <string name="edt_message_hint">"enter message "</string>
+    <string name="edt_phone">phone</string>
+    <string name="btn_show">show message</string>
+    <string name="btn_close">close</string>
+</resources>
